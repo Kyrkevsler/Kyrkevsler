@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krysler Faust</h1>
-<h3 align="center">A self-taught aspiring Data Scientist also equipped with fundamental knowledge of Front-end Web Development.</h3>
+<h3 align="center">A self-taught aspiring Data Scientist also equipped with fundamental knowledge of Finance.</h3>
 
 # Languages and Tools:
 ![](https://img.shields.io/badge/CODE-HTML-orange)
